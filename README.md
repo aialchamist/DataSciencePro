@@ -11,7 +11,7 @@ Welcome to the DataSciencePro repository! This repository is dedicated to showca
 
 ## Projects
 
-### Project 1: [Project Name]
+### Housing Price Prediction:
 - Description: A brief description of the project, its objectives, and its significance.
 - Technologies Used: List the programming languages, libraries, and tools used.
 - Code: Link to the project's code or notebooks, if available.
