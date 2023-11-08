@@ -16,7 +16,7 @@ Welcome to the DataSciencePro repository! This repository is dedicated to showca
 - Technologies Used: List the programming languages, libraries, and tools used.
 - Code: Link to the project's code or notebooks, if available.
 
-### Project 2: [Project Name]
+### Optical Character Recognition [OCR]:
 - Description: Another project description with relevant details.
 - Technologies Used: List the technologies used for this project.
 - Code: Link to the project's code or notebooks, if available.
